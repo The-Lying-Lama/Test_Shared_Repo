@@ -7,6 +7,7 @@ public class Test2 {
 		System.out.println("Hello 1");
 		System.out.println("Hello 2");
 		System.out.println("Added by SHikha");
+		System.out.println("Hello 3");
 
 	}
 
